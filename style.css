@@ -1,0 +1,20 @@
+#header{
+    align-items: center;
+    font-size: 60px;
+    font-family: Hlevetica,Arial,sans-serif;
+    font-style: italic;
+}
+
+#header-caption{
+    align-items: center;
+    font-size: 20px;
+    font-family: Hlevetica,Arial,sans-serif;
+    font-style: italic;
+}
+
+#Welcome{
+    align-items: center;
+    font-size: 30px;
+    font-family: Hlevetica,Arial,sans-serif;
+    font-style: italic;
+}
