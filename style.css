@@ -1,3 +1,8 @@
+#episode-subtitle {
+    font-size: 75px;
+    font-style: italic;
+}
+
 * {
     font-family: Helvetica,Arial,sans-serif;
 }
@@ -14,7 +19,7 @@
     font-style: italic;
 }
 
-#Welcome{
+.titles{
     align-items: center;
     font-size: 30px;
     font-style: italic;
