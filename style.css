@@ -35,18 +35,6 @@ body {
     min-height: 100vh;
 }
 
-.header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    padding: 20px 100px;
-    background: skyblue;
-    display: flex;
-    align-items: center;
-    z-index: 100;
-}
-
 .nav-bar a {
     position: relative;
     font-size: 18px;
